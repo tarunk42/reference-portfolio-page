@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build && next export",
     "start": "next start",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d .next/static"
   },
   "homepage": "https://tarunk42.github.io/reference-portfolio-page/",
   "dependencies": {
